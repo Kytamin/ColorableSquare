@@ -1,3 +1,5 @@
  export interface Colorable{
-    howToColor():string
+     checkColor():string
+     howToColor():string
+     display():string
 }
